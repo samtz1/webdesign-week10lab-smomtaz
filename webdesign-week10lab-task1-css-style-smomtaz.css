@@ -1,0 +1,32 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    font-family: "Georgia";
+    font-size: "32px";
+}
+
+h2 {
+    font-family: "Georgia";
+    font-size: "18px";
+    color: blue
+}
+
+
+
+p1 {
+    text-align: center;
+    font-style: "large-text";
+    font-size: "16px";
+    
+}
+
+
+
+p2 {
+    text-align: left;
+    font-style: "large-text";
+    color: blue
+
+}
